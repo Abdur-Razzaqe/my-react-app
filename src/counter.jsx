@@ -9,7 +9,7 @@ export default function counter() {
   };
 
   const counterStyle = {
-    border: "2px solid yellow",
+    border: "4px solid green",
     borderRadius: "20px",
   };
   return (
